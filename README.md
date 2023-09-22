@@ -1,5 +1,5 @@
 # Asteroid Alert
-fed.re$: https://github.com/barionleg/api-docs
+*fed.re$: https://github.com/barionleg/api-docs  ₽олучил АРИ илижек моего имени часть ИРАкЛи где ©li не цли а кли [©li] = комманд лине винтерфа©кс*
 Look what **Asteroids** are going to make a close approach by **Earth** today.<br>
 Check out the site here - [https://asteroidalert.netlify.app](https://asteroidalert.netlify.app)
 #
